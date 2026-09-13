@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Biografi Irin</title>
+</head>
+<body>
+
+    <h1 style="color: pink; text-align: center;">
+        BIODATA DIRI
+    </h1>
+
+    <p style="color: purple; font-size: 20px;">
+        Halo, nama saya Irin.
+    </p>
+
+    <p style="background-color: lightpink; padding: 15px;">
+        Saya adalah siswa jurusan Rekayasa Perangkat Lunak (RPL).
+    <p style="background-color: lightpink; padding: 15px;">
+        saya kelas xi rpl 1.
+    <p style="background-color: lightpink;padding: 15px;">
+        asal sekolah SMK NEGERI 1 SEMPARUK.
+    <p style="background-color: lightpink; padding: 15px;">
+        cita cita saya investor      
+    </p>
+ 
+</body>
+</html>
